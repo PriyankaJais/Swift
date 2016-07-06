@@ -1,0 +1,59 @@
+
+About This Application
+=====================
+FlickrPhotoBrowser application will fetch pictures from Flickr API and show them on the device screen.
+The application shows the image list and on tapping on the image, shows the image and its details on a different screen.
+The application shows Today's intersting pictures at the application launch and if the user enters a search text, then fetches the pictures associated with the search text and shows them in the list.
+If the application is launched for the second time, the previous search item is persisted and images are displayed related to the previous search.
+All images are fetched as requested.
+An app has two screens, the first screen will show the image list and second screen will show individual image information.
+This application has been created for Sogeti/Capgemini, its license belongs to them.
+Please consider with the development team / concerned person before customizing the application.
+
+Main Features
+================
+
+1) List today's interesting pictures as a default starting point on first time launch.
+2) On entering a seach text, fetch the pictures related to the search text and display them
+3) On tapping on any picture, show the details on the second screen
+4) The number of pictures to be fetched is customisable
+5) The pictures are fetched page-wise on scrolling the list
+6) There is no limit to how many pictures would be fetched for any search, as the user keeps scrolling, more and more pictures are fetched and shown
+7) Give error alert if Network is not available
+
+About Open Source Libraries / Modules
+======================================
+
+This application uses following open sources Libraries/Modules.
+
+1)  Module Name : FlickrKit
+Descripition : FlickrKit is an iOS Objective-C library for accessing the Flickr API
+License : N/A
+URL : https://github.com/devedup/FlickrKit
+
+
+Development Enviroment
+=========================
+
+1) IDE - XCode v7.3.1
+2) iOS SDK - v9.3
+3) Minimum Deployment Target - iOS v9.0 and later.
+
+Note: Testing done with iPhone 6 simulator.
+
+
+Known Issues
+=============
+
+1) UIImageView extension is used for saving and storing the image title. In a case where more information related to the image may be required to be shown on the detail screen, using customised CollectionViewCell may be a better approach
+2) The detail screen UI could be better designed
+
+
+Pending Task
+==============
+
+1) Using CollectionView instead of ScrollView for a cleaner and more elegant solution
+
+
+==========================================================
+Copyright (C) Sogeti/Capgemini B.V.  All rights reserved.

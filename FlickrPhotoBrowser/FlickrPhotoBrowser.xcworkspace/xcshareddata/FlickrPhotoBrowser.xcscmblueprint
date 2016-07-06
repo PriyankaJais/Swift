@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "de2776b5-a091-43e6-aaff-ee7c17853bd5++4008",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "de2776b5-a091-43e6-aaff-ee7c17853bd5++4008" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "de2776b5-a091-43e6-aaff-ee7c17853bd5++4008" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A06CA8CC-23EA-4589-B03C-F76D641DB586",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "de2776b5-a091-43e6-aaff-ee7c17853bd5++4008" : "Coke%20\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FlickrPhotoBrowser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Local\/FlickrPhotoBrowser\/FlickrPhotoBrowser.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/sourcecode.ko.com\/svn\/big_emergingtechnologies",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "de2776b5-a091-43e6-aaff-ee7c17853bd5++4008"
+    }
+  ]
+}
